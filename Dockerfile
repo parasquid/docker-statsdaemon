@@ -8,4 +8,3 @@ RUN go get github.com/Vimeo/statsdaemon
 
 EXPOSE 8126
 
-CMD /go/bin/statsdaemon
