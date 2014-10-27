@@ -9,3 +9,4 @@ ADD ./statsdaemon.ini /etc/statsdaemon.ini
 
 EXPOSE 8126
 
+CMD /go/bin/statsdaemon
